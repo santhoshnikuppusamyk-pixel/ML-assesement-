@@ -1,0 +1,44 @@
+text,category
+My credit card was charged twice,Billing
+I was charged twice for my subscription,Billing
+How can I download my invoice,Billing
+My invoice amount is incorrect,Billing
+I need a refund for my payment,Billing
+The payment failed,Billing
+Why was I charged an extra fee,Billing
+I cannot update my billing information,Billing
+My subscription payment is pending,Billing
+Please help with my credit card payment,Billing
+My payment was declined,Billing
+I need help understanding my bill,Billing
+The invoice shows the wrong amount,Billing
+I want to cancel my subscription,Billing
+There is an unexpected charge on my account,Billing
+My account has been charged incorrectly,Billing
+I need a copy of my receipt,Billing
+The application keeps crashing,Technical
+The website is not loading,Technical
+I cannot log into the application,Technical
+The app shows an error message,Technical
+The page is very slow,Technical
+The system is currently unavailable,Technical
+My dashboard is not working,Technical
+The mobile application crashes when I open it,Technical
+I am getting a server error,Technical
+The website stopped working,Technical
+I cannot upload my file,Technical
+The application has a technical issue,Technical
+The API is returning an error,Technical
+The website is down,Technical
+My browser page keeps freezing,Technical
+The system gives me an error,Technical
+I forgot my password,Account
+I cannot change my password,Account
+My account is locked,Account
+How do I change my email address,Account
+I cannot access my account,Account
+I want to update my profile,Account
+My username is not working,Account
+How can I delete my account,Account
+I need help with account settings,Account
+My account details are incorrect,Account
